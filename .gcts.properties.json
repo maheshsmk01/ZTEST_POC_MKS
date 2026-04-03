@@ -1,0 +1,12 @@
+{
+  "name": "maheshsmk01-ztest_poc_mks",
+  "version": "1.0.0",
+  "description": "maheshsmk01-ZTEST_POC_MKS",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
